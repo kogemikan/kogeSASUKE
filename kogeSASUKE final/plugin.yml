@@ -1,0 +1,9 @@
+name: kogefinal
+main: sasukefinal.Main
+version: 1.0.0
+commands:
+ kogefinal:
+  usage: '§C使用法: /<command> <start|end>'
+  aliases: [finalgimmick]
+  permission: inferno.kogefinal
+  description: finalのフラグ建て

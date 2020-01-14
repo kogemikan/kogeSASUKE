@@ -1,0 +1,9 @@
+name: koge1st
+main: sasuke1st.Main
+version: 1.0
+commands:
+ koge1st:
+  usage: '§C使用法: /<command> <start|end>'
+  aliases: [1stgimmick]
+  permission: inferno.koge1st
+  description: 1stのフラグ建て

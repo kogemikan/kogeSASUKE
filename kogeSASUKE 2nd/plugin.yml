@@ -1,0 +1,9 @@
+name: koge2nd
+main: sasuke2nd.Main
+version: 1.0
+commands:
+ koge2nd:
+  usage: '§C使用法: /<command> <set|reset> [Player]'
+  aliases: [2ndgimmick]
+  permission: inferno.koge2nd
+  description: 2ndのフラグ建て

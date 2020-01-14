@@ -1,0 +1,9 @@
+name: koge3rd
+main: sasuke3rd.Main
+version: 1.0.0
+commands:
+ koge3rd:
+  usage: '§C使用法: /<command> <start|end>'
+  aliases: [3rdgimmick]
+  permission: inferno.koge3rd
+  description: 3rdのフラグ建て
